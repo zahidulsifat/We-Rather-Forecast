@@ -9,7 +9,7 @@ Then use the configexample.py to add your Api.After that reaname the configexamp
 Use can use the pyinstaller and auto-py-to-exe to make and exectuable file. The executable folder contains exe file. You keep to the element of the folder in order to make the exe file work properly.
 
 ## User Interface
-[![User Interface Screenshot](https://github.com/zahidulsifat/We-Rather-Forecast/blob/main/ScreenShots/Screenshot_862.png)]
+![User Interface Screenshot](https://github.com/zahidulsifat/We-Rather-Forecast/blob/main/ScreenShots/Screenshot_862.png)
 
 ## Result
-[![Showing current weather of Dhaka](https://github.com/zahidulsifat/We-Rather-Forecast/blob/main/ScreenShots/Screenshot_861.png)]
+![Showing current weather of Dhaka](https://github.com/zahidulsifat/We-Rather-Forecast/blob/main/ScreenShots/Screenshot_861.png)
